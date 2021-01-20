@@ -12,7 +12,7 @@ provider "google" {
 
   #credentials = file("/vagrant/leonardo-mbaimpacta-turma04-732c8e471b85.json")
 
-  project     = "leonardo-mbaimpacta-turma04"
+  project     = "leonardo-cloudautomation"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
